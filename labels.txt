@@ -1,0 +1,9 @@
+0 USD
+1 Korean Won
+2 British Pound
+3 Chinese Yuan
+4 Euro
+5 Japanese Yen
+6 Phillipines Peso
+7 riyals
+8 No Bill
